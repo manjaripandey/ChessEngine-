@@ -40,9 +40,3 @@ Start the engine with:
 
 
 
----
-## Lichess.org
----------
-You can play against the engine on lichess.org using the ShailChoksi/lichess-bot bridge and a BOT account. See the section on lichess.org in the Usage instructions for more details.
-You can also look the bot up on lichess as "Athena-AI".
-

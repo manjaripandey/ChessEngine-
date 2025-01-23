@@ -1,5 +1,4 @@
-# Athena
-Athena is a Python-based chess engine using negamax algorithm with alpha-beta pruning, piece-square tables, Simplified Evaluation Function and move ordering
+This is a Python-based chess engine using negamax algorithm with alpha-beta pruning, piece-square tables, Simplified Evaluation Function and move ordering
 
 ### Features
 ---------
@@ -39,7 +38,7 @@ Start the engine with:
 
 ```python main.py```
 
-The engine supports the UCI protocol for communication with compatible GUIs. Refer to the UCI interface documentation for more information on interaction.
+
 
 ---
 ## Lichess.org
